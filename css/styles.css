@@ -47,7 +47,10 @@ body
     }
 
 #post
-    {padding: 1em;}
+    {
+        background: white;
+        padding: 1em;
+    }
 
 #footer
     {
@@ -59,3 +62,4 @@ body
         background: white;
         padding: 1em;
     }
+
